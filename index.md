@@ -7,7 +7,6 @@ At the conclusion of the lesson you will
 understand what the OpenRefine software does and how to
 use the OpenRefine software to work with data files.
 
-custom version
 
 > ## Prerequisites
 >To complete this lesson you will need Firefox web browser and OpenRefine. 
